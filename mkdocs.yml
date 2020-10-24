@@ -5,4 +5,8 @@ theme:
   logo: images/assets/avatar.png
   favicon: images/assets/avatar.png
 
+google_analytics:
+  - UA-G-9FPXH72C5R-X
+  - auto
+
 # repo_url: https://github.com/squidfunk/mkdocs-material
