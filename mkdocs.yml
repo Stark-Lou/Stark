@@ -1,5 +1,5 @@
 site_name: Stark
-repo_url: https://stark-lou.github.io/stark
+repo_url: https://stark-lou.github.io
 
 theme:
   name: material
@@ -13,7 +13,7 @@ extra:
 
 # google_analytics
 google_analytics:
-  - UA-G-9FPXH72C5R-X
+  - G-HXH5LVMG2H
   - auto
 
 # repo_url: https://github.com/squidfunk/mkdocs-material
