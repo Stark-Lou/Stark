@@ -1,10 +1,17 @@
 site_name: Stark
+repo_url: https://stark-lou.github.io/stark
+
 theme:
   name: material
   language: zh
   logo: images/assets/avatar.png
   favicon: images/assets/avatar.png
 
+# Disqus
+extra:
+  disqus: https-stark-lou-github-io-stark
+
+# google_analytics
 google_analytics:
   - UA-G-9FPXH72C5R-X
   - auto
