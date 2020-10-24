@@ -9,7 +9,7 @@ theme:
 
 # Disqus
 extra:
-  disqus: stark-lou.disqus.com
+  disqus: stark-lou
 
 # google_analytics
 google_analytics:
