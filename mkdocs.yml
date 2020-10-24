@@ -1,0 +1,8 @@
+site_name: Stark
+theme:
+  name: material
+  language: zh
+  logo: images/assets/avatar.png
+  favicon: images/assets/avatar.png
+
+# repo_url: https://github.com/squidfunk/mkdocs-material
